@@ -172,26 +172,6 @@ This project helps businesses:
 
 ---
 
-# ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
-```
-
-Install the required Python packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-Open:
-
-- `Python/Churn Prediction.ipynb` to view the machine learning workflow.
-- `PowerBI/Churn Analysis & Prediction dashboard.pbix` using Power BI Desktop.
-
----
 
 # 📌 Future Improvements
 
@@ -213,7 +193,7 @@ Open:
 
 📧 Email: supriyagoud312@gmail.com
 
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/supriyagattu-collab
 
 🔗 LinkedIn: https://linkedin.com/in/yourprofile
 
