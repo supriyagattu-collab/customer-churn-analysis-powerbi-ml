@@ -167,7 +167,8 @@ This project helps businesses:
 
 
 
-<img width="1913" height="940" alt="Summary Dashboard Screenshot" src="https://github.com/user-attachments/assets/447667ce-a4a2-4167-b5c3-83a6c8f948dc" />
+<img width="1918" height="977" alt="Churn Reason Screenshot" src="https://github.com/user-attachments/assets/8abfead4-7751-4e98-87e6-8078b53f3dd0" />
+
 
 ---
 
