@@ -151,7 +151,6 @@ This project helps businesses:
 
 ## Summary Dashboard
 
-> *(Insert your Summary Dashboard screenshot here.)*
 
 ![Summary Dashboard](<img width="1913" height="940" alt="Summary Dashboard Screenshot" src="https://github.com/user-attachments/assets/9eb9bbaa-9793-4d42-8e09-4a1e9f65ca7e" />
 )
@@ -160,7 +159,6 @@ This project helps businesses:
 
 ## Churn Prediction Dashboard
 
-> *(Insert your Prediction Dashboard screenshot here.)*
 
 ![Prediction Dashboard](<img width="1917" height="968" alt="Churn Prediction Dashboard Screenshot" src="https://github.com/user-attachments/assets/4e71f502-f04a-431a-a992-ec8548551824" />
 )
@@ -169,7 +167,7 @@ This project helps businesses:
 
 ## Churn Analysis Dashboard
 
-> *(Insert your Churn Reason Dashboard screenshot here.)*
+
 
 ![Churn Analysis Dashboard](<img width="1917" height="968" alt="Churn Prediction Dashboard Screenshot" src="https://github.com/user-attachments/assets/3d02f22c-188e-4a6e-a69c-e7fe69b04b79" />
 )
